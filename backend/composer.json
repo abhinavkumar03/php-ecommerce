@@ -1,0 +1,14 @@
+{
+    "name": "abhinav/backend",
+    "autoload": {
+        "psr-4": {
+            "Abhinav\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abhinav"
+        }
+    ],
+    "require": {}
+}
