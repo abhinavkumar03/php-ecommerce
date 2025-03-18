@@ -1,0 +1,17 @@
+# Node Modules
+**/node_modules
+
+# PHP and environment files
+/backend/vendor/
+/backend/.env
+/frontend/.env
+
+# Cache and Logs
+*.log
+*.cache
+*.lock
+
+# IDE Specific Files
+.idea/
+.vscode/
+.DS_Store
